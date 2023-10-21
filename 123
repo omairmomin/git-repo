@@ -1,0 +1,16 @@
+Command Line (All Operating Systems):
+If you're using the command line, you can list all files, including hidden ones, using a terminal or command prompt:
+
+On Linux/macOS, use the command ls -a in the terminal.
+On Windows, use the command dir /a in the command prompt.
+This will show all files, including hidden ones, in the current directory.
+
+Remember, hidden files in Unix-like systems are typically denoted by a dot (.) at the beginning of their names. For example, .git is a hidden directory used by Git.
+
+Always be cautious when working with hidden files, as they often contain important system configurations. Modifying or deleting them without proper knowledge can cause problems.
+
+
+
+
+
+
