@@ -1,0 +1,12 @@
+
+To view hidden files in a file browser (like File Explorer in Windows, Finder in macOS, or a file manager in Linux), you'll need to toggle the visibility of hidden files. Here's how you can do it on different operating systems:
+
+Windows:
+Open File Explorer.
+Go to the directory where you want to view hidden files.
+Click on the "View" tab in the toolbar.
+Check the box that says "Hidden items." This will toggle the visibility of hidden files and folders in the current directory.
+macOS:
+Open Finder.
+Go to the directory where you want to view hidden files.
+Press Command + Shift + . (period). This keyboard shortcut toggles the visibility of hidden files in the current directory.
